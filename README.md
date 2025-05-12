@@ -1,4 +1,4 @@
-# power-bi-project1
+# Power-BI-Project1
 🎓 Student Purchase Behavior Analysis | Power BI Project
 Analyzed U.S. student spending across store types and locations using a survey dataset. Built an interactive Power BI report with advanced visuals and data governance features.
 
